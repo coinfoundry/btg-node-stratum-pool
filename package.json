@@ -32,7 +32,7 @@
         "base58-native": "*",
         "bignum": "*",
         "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
-        "equihashverify": "git+https://github.com/joshuayabut/equihashverify.git",
+        "equihashverify": "git+https://github.com/StarbuckBG/equihashverify.git",
         "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
         "promise": "*",
         "zeromq": "^4.6.0"
